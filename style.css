@@ -1,0 +1,15 @@
+body {
+    background-color: pink;
+}
+
+.intro {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    margin: 50px;
+}
+
+mark {
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
