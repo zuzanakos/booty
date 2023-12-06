@@ -1,15 +1,26 @@
 body {
-    background-color: pink;
+    margin: 0;
+    transition: background-color 1s ease; /* Add a transition effect */
+    font-family: 'Baskervville', Georgia, 'Times New Roman', Times, serif;
 }
 
 .intro {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5rem;
-    margin: 50px;
+    font-family: 'Baskervville', serif;
+    font-size: 1.6rem;
+}
+
+.introduction {
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 mark {
     background-color: white;
-    padding-top: 1px;
-    padding-bottom: 1px;
+}
+
+.form {
+    margin: 21px;
+    margin-bottom: 50px;
 }
